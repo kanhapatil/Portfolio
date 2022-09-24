@@ -1,2 +1,1 @@
 streamlit
-import pandas as pd
